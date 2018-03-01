@@ -7,7 +7,7 @@ defmodule Inflex.Mixfile do
     [
       app: :inflex,
       version: "1.8.1",
-      elixir: ">= 1.0.0",
+      elixir: ">= 1.6.0",
       deps: deps(),
       package: [
         files: ["lib", "mix.exs", "README*", "LICENSE*"],
